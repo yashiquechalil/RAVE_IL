@@ -4,6 +4,7 @@ VariationalPrior:
     skp_size=256
     kernel_size=3
     cycle_size=4
+    fidelity=0.95
     n_layers=10
     # sr=@get_model_sr()
     
